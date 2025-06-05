@@ -83,5 +83,5 @@ Student-Performance-Predictor-using-AI/
 ## 👨‍💻 Author
 
 **Adil Basha**  
-[Your College Name]  
+[GITAM UINVERSITY BANGLORE]
 AICTE Microsoft Internship – AI/ML Track  
